@@ -1,4 +1,4 @@
-package test;
+package wait;
 
 import base.BaseTests;
 import org.testng.annotations.Test;
